@@ -1,5 +1,8 @@
+@use 'assets/scss/style.scss';
+
 //Import Bootstrap
-@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import "bootstrap/dist/css/bootstrap.min.css";
+
 
 //Import style
-@import './assets/scss/style.scss';
+
