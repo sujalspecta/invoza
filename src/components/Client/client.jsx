@@ -11,7 +11,7 @@ import 'owl.carousel/dist/assets/owl.theme.default.css';
 
 //Import Section Title
 import SectionTitle from "../common/section-title";
-import Counter from "../../components/Counter/counter";
+import Counter from "../Counter/counter";
 import ClientBox from "./client-box";
 
 //Import Images
